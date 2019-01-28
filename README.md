@@ -3,7 +3,7 @@
 `RunRunTypes` is a simple runtime-only type checker. It's a fairly specific and simple library
 and it might be for you if:
 
-- You're trying to write a runtime-less app and need type checking in development
+- You're trying to write a build-step-less app and need type checking in development
 - Your types are not simple and you prefer Flow-like definitions for them
 - You don't care about Flow's comment-only syntax much
 
